@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Banner](https://img.shields.io/badge/Web%20Development%20Collection-2024--2026-blueviolet?style=for-the-badge)
+![Banner](https://img.shields.io/badge/Web%20Development%20Collection-2026--2026-blueviolet?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -378,6 +378,6 @@ Happy coding! 🚀 Keep learning, keep building, keep improving!
 
 ---
 
-<sub>📅 Created: 2024 | 📝 Last Updated: May 27, 2026 | 💻 Built with ❤️ for learners</sub>
+<sub>📅 Created: 2026 | 📝 Last Updated: May 27, 2026 | 💻 Built with ❤️ for learners</sub>
 
 </div>
