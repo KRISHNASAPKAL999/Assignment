@@ -53,13 +53,15 @@ Each project is a **complete learning experience** with production-ready code ex
 
 <img src="https://github.com/KRISHNASAPKAL999/Assignment/blob/main/Assignment%203/assets/image%20(3).png?raw=true" width="100%" />
 
-</div>
+### 🏯 Marvel Power Card
 
+<img src="https://github.com/KRISHNASAPKAL999/Assignment/blob/main/Assignment%203/assets/design2.png?raw=true" width="100%" />
+
+</div>
 ---
 
 ## 🎯 Projects Showcase
-### ⭐ Assignment 3: 🏯 Shinsei Village
-
+### ⭐ Assignment 3: 
 <table>
 <tr>
 <td width="60%">
