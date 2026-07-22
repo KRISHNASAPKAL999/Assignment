@@ -60,6 +60,9 @@ Each project is a **complete learning experience** with production-ready code ex
 ### 🏯 SQUID GAME
 <img src="https://github.com/KRISHNASAPKAL999/Assignment/blob/main/Assignment%203/assets/squid%20game.png?raw=true" width="100%" />
 
+### 🏯 fashion look
+<img width="1033" height="821" alt="image" src="https://github.com/user-attachments/assets/698ab07e-e119-4da4-81cd-5d6370fbee46" />
+
 </div>
 ---
 
